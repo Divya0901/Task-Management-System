@@ -13,7 +13,6 @@ Step11: To reopen a task, click the "tick" button on the completed task and refr
 Step12: Note: The deleted tasks are not reopened, they are deleted forever.
 Step13: To Review API Documentation by using Swagger, use this URL "http://localhost:8080/swagger-ui/index.html"  to understand the available endpoints and their usage.
 
-
 Techstacks used: 
 For Backend: Java, Spring boot, MySQL Database, JPA Hibernate, and Maven
 For Frontend: HTML, CSS, and JavaScript. 
